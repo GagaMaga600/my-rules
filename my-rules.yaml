@@ -1,6 +1,5 @@
 payload:
-  - OR,((DOMAIN-SUFFIX,frankerfacez.com),(DOMAIN,cdn.frankerfacez.com),(DOMAIN,cdn2.frankerfacez.com),(DOMAIN,api.frankerfacez.com),(DOMAIN,api.ffzap.com)),🌍 VPN # FFZ смайлы
-  - OR,((DOMAIN,cdn.betterttv.net),(DOMAIN,betterttv.com),(DOMAIN,betterttv.net)),🌍 VPN # bttv смайлы
-
-  - DOMAIN-SUFFIX,extremenetworks.com,🌍 VPN # Extreme
-  - DOMAIN-SUFFIX,momentjs.com,🌍 VPN # Cisco
+  - OR,((DOMAIN-SUFFIX,frankerfacez.com),(DOMAIN,cdn.frankerfacez.com),(DOMAIN,cdn2.frankerfacez.com),(DOMAIN,api.frankerfacez.com),(DOMAIN,api.ffzap.com))
+  - OR,((DOMAIN,cdn.betterttv.net),(DOMAIN,betterttv.com),(DOMAIN,betterttv.net))
+  - DOMAIN-SUFFIX,extremenetworks.com
+  - DOMAIN-SUFFIX,momentjs.com
