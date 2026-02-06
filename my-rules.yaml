@@ -1,5 +1,11 @@
 payload:
-  - OR,((DOMAIN-SUFFIX,frankerfacez.com),(DOMAIN,cdn.frankerfacez.com),(DOMAIN,cdn2.frankerfacez.com),(DOMAIN,api.frankerfacez.com),(DOMAIN,api.ffzap.com))
-  - OR,((DOMAIN,cdn.betterttv.net),(DOMAIN,betterttv.com),(DOMAIN,betterttv.net))
-  - DOMAIN-SUFFIX,extremenetworks.com
+  - DOMAIN-SUFFIX,frankerfacez.com
+  - DOMAIN,cdn.frankerfacez.com
+  - DOMAIN,cdn2.frankerfacez.com
+  - DOMAIN,api.frankerfacez.com
+  - DOMAIN,api.ffzap.com
+  - DOMAIN,cdn.betterttv.net
+  - DOMAIN-SUFFIX,betterttv.com
+  - DOMAIN-SUFFIX,betterttv.net
+  - DOMAIN-SUFFIX,extremenetworks.com
   - DOMAIN-SUFFIX,momentjs.com
