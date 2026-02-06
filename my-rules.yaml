@@ -1,0 +1,18 @@
+payload:
+  # FFZ смайлы
+  - DOMAIN-SUFFIX,frankerfacez.com
+  - DOMAIN,cdn.frankerfacez.com
+  - DOMAIN,cdn2.frankerfacez.com
+  - DOMAIN,api.frankerfacez.com
+  - DOMAIN,api.ffzap.com
+
+  # BTTV смайлы
+  - DOMAIN,cdn.betterttv.net
+  - DOMAIN,betterttv.com
+  - DOMAIN,betterttv.net
+
+  # Extreme
+  - DOMAIN-SUFFIX,extremenetworks.com
+
+  # Cisco / Moment
+  - DOMAIN-SUFFIX,momentjs.com
