@@ -1,18 +1,6 @@
 payload:
-  # FFZ смайлы
-  - frankerfacez.com
-  - cdn.frankerfacez.com
-  - cdn2.frankerfacez.com
-  - api.frankerfacez.com
-  - api.ffzap.com
+  - OR,((DOMAIN-SUFFIX,frankerfacez.com),(DOMAIN,cdn.frankerfacez.com),(DOMAIN,cdn2.frankerfacez.com),(DOMAIN,api.frankerfacez.com),(DOMAIN,api.ffzap.com)),🌍 VPN # FFZ смайлы
+  - OR,((DOMAIN,cdn.betterttv.net),(DOMAIN,betterttv.com),(DOMAIN,betterttv.net)),🌍 VPN # bttv смайлы
 
-  # BTTV смайлы
-  - cdn.betterttv.net
-  - betterttv.com
-  - betterttv.net
-
-  # Extreme
-  - extremenetworks.com
-
-  # Cisco / Moment
-  - momentjs.com
+  - DOMAIN-SUFFIX,extremenetworks.com,🌍 VPN # Extreme
+  - DOMAIN-SUFFIX,momentjs.com,🌍 VPN # Cisco
