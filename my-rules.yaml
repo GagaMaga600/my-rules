@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,frankerfacez.com
-  - DOMAIN,cdn.frankerfacez.com
-  - DOMAIN,cdn2.frankerfacez.com
-  - DOMAIN,api.frankerfacez.com
-  - DOMAIN,api.ffzap.com
-  - DOMAIN,cdn.betterttv.net
-  - DOMAIN-SUFFIX,betterttv.com
-  - DOMAIN-SUFFIX,betterttv.net
-  - DOMAIN-SUFFIX,extremenetworks.com
-  - DOMAIN-SUFFIX,momentjs.com
+- DOMAIN-SUFFIX,frankerfacez.com
+- DOMAIN,cdn.frankerfacez.com
+- DOMAIN,cdn2.frankerfacez.com
+- DOMAIN,api.frankerfacez.com
+- DOMAIN,api.ffzap.com
+- DOMAIN,cdn.betterttv.net
+- DOMAIN-SUFFIX,betterttv.com
+- DOMAIN-SUFFIX,betterttv.net
+- DOMAIN-SUFFIX,extremenetworks.com
+- DOMAIN-SUFFIX,momentjs.com
