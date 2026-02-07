@@ -1,11 +1,22 @@
 payload:
+# смайлы FFZ
 - DOMAIN-SUFFIX,frankerfacez.com
 - DOMAIN,cdn.frankerfacez.com
 - DOMAIN,cdn2.frankerfacez.com
 - DOMAIN,api.frankerfacez.com
 - DOMAIN,api.ffzap.com
+# смайлы BTTV
 - DOMAIN,cdn.betterttv.net
 - DOMAIN-SUFFIX,betterttv.com
 - DOMAIN-SUFFIX,betterttv.net
+# Extreme
 - DOMAIN-SUFFIX,extremenetworks.com
+# Cisco
 - DOMAIN-SUFFIX,momentjs.com
+# Juniper
+- DOMAIN-KEYWORD,juniper
+- DOMAIN-SUFFIX,consent.trustarc.com
+- DOMAIN-SUFFIX,unpkg.com
+# Huawei
+- DOMAIN-SUFFIX,huawei.com
+- GEOSITE,huawei
