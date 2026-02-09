@@ -23,3 +23,5 @@ payload:
 # Test DNS, WEBRTC
 - DOMAIN-SUFFIX,browserleaks.com
 - DOMAIN-SUFFIX,dnsleaktest.com
+# 
+- DOMAIN-SUFFIX,ifixit.com
