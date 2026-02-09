@@ -25,3 +25,4 @@ payload:
 - DOMAIN-SUFFIX,dnsleaktest.com
 # 
 - DOMAIN-SUFFIX,ifixit.com
+- DOMAIN-SUFFIX,softpedia.com
