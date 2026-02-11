@@ -24,8 +24,9 @@ payload:
 - DOMAIN-SUFFIX,browserleaks.com
 - DOMAIN-SUFFIX,dnsleaktest.com
 # 
-- DOMAIN-SUFFIX,ifixit.com
-- DOMAIN-SUFFIX,softpedia.com
-- DOMAIN-SUFFIX,iconarchive.com
-- DOMAIN-SUFFIX,ragnos1997.com
-- DOMAIN-KEYWORD,lenovo
+- DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
+- DOMAIN-SUFFIX,softpedia.com # Сайт с программами
+- DOMAIN-SUFFIX,iconarchive.com # Набор иконок. Бесполезный сайт.
+- DOMAIN-SUFFIX,ragnos1997.com # Оптимизация игр
+- DOMAIN-KEYWORD,lenovo # Lenovo
+
