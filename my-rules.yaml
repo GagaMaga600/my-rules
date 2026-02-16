@@ -23,6 +23,10 @@ payload:
 # Test DNS, WEBRTC
 - DOMAIN-SUFFIX,browserleaks.com
 - DOMAIN-SUFFIX,dnsleaktest.com
+# Инстансы cobalt.tools (скачивание видео)
+- DOMAIN-SUFFIX,cobalt.directory
+- DOMAIN-SUFFIX,cobalt.canine.tools
+- DOMAIN-KEYWORD,cobalt
 # 
 - DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
 - DOMAIN-SUFFIX,softpedia.com # Сайт с программами
@@ -30,8 +34,6 @@ payload:
 - DOMAIN-SUFFIX,ragnos1997.com # Оптимизация игр
 - DOMAIN-SUFFIX,queue-it.net # Управление онлайн-очередями. Сервисный сайт.
 - GEOSITE,sourceforge # Open source ПО
-- DOMAIN-SUFFIX,cobalt.directory # Инстансы cobalt.tools (скачивание видео)
-
 
 
 
