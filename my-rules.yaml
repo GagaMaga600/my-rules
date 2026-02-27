@@ -35,6 +35,7 @@ payload:
 - DOMAIN-SUFFIX,queue-it.net # Управление онлайн-очередями. Сервисный сайт.
 - GEOSITE,sourceforge # Open source ПО
 - DOMAIN-SUFFIX,niagaralauncher.app # Niagara Launcher
+- DOMAIN-SUFFIX,llhost # LLhost
 
 
 
