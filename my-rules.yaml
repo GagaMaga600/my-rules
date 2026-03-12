@@ -37,6 +37,7 @@ payload:
 - DOMAIN-SUFFIX,niagaralauncher.app # Niagara Launcher
 - DOMAIN-SUFFIX,llhost # LLhost
 - DOMAIN-SUFFIX,forum.vivaldi.net # Форумы браузера Vivaldi
+- DOMAIN-SUFFIX,steamdb.info # steamdb
 
 
 
