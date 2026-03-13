@@ -39,5 +39,4 @@ payload:
 - DOMAIN-SUFFIX,forum.vivaldi.net # Форумы браузера Vivaldi
 - DOMAIN-SUFFIX,steamdb.info # steamdb
 - DOMAIN-SUFFIX,tampermonkey.net # tampermonkey.net
-
-
+- DOMAIN-SUFFIX,motorola.com # motorola
