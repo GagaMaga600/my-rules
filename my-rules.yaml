@@ -41,3 +41,4 @@ payload:
 - DOMAIN-SUFFIX,tampermonkey.net # tampermonkey.net
 - DOMAIN-SUFFIX,motorola.com # motorola
 - DOMAIN-KEYWORD,motorola # motorola
+- DOMAIN-SUFFIX,ua # тест на ua ???
