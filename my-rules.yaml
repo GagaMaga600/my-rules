@@ -43,3 +43,4 @@ payload:
 - DOMAIN-KEYWORD,motorola # motorola
 - DOMAIN-SUFFIX,ua # тест на ua ???
 - DOMAIN-SUFFIX,linktr.ee # linktr. аггрегатор ссылок на socials
+- GEOSITE,google-play # google-play
