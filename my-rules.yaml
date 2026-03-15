@@ -42,3 +42,4 @@ payload:
 - DOMAIN-SUFFIX,motorola.com # motorola
 - DOMAIN-KEYWORD,motorola # motorola
 - DOMAIN-SUFFIX,ua # тест на ua ???
+- DOMAIN-SUFFIX,linktr.ee # linktr. аггрегатор ссылок на socials
