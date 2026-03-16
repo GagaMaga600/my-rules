@@ -27,6 +27,9 @@ payload:
 - DOMAIN-SUFFIX,cobalt.directory
 - DOMAIN-SUFFIX,cobalt.canine.tools
 - DOMAIN-KEYWORD,cobalt
+# Vivaldi Browser
+- DOMAIN-SUFFIX,forum.vivaldi.net
+- DOMAIN-SUFFIX,vivaldi.net
 # 
 - DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
 - DOMAIN-SUFFIX,softpedia.com # Сайт с программами
@@ -36,7 +39,6 @@ payload:
 - GEOSITE,sourceforge # Open source ПО
 - DOMAIN-SUFFIX,niagaralauncher.app # Niagara Launcher
 - DOMAIN-SUFFIX,llhost # LLhost
-- DOMAIN-SUFFIX,forum.vivaldi.net # Форумы браузера Vivaldi
 - DOMAIN-SUFFIX,steamdb.info # steamdb
 - DOMAIN-SUFFIX,tampermonkey.net # tampermonkey.net
 - DOMAIN-SUFFIX,motorola.com # motorola
