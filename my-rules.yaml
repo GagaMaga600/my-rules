@@ -47,3 +47,4 @@ payload:
 - DOMAIN-SUFFIX,linktr.ee # linktr. аггрегатор ссылок на socials
 - GEOSITE,google-play # google-play
 - GEOSITE,lenovo # lenovo
+- DOMAIN-SUFFIX,wallhaven.cc # обои на Android
