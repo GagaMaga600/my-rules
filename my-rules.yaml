@@ -48,3 +48,4 @@ payload:
 - GEOSITE,google-play # google-play
 - GEOSITE,lenovo # lenovo
 - DOMAIN-SUFFIX,wallhaven.cc # обои на Android
+- DOMAIN-SUFFIX,alternativeto.net # поиск программ
