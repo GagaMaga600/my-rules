@@ -49,3 +49,5 @@ payload:
 - GEOSITE,lenovo # lenovo
 - DOMAIN-SUFFIX,wallhaven.cc # обои на Android
 - DOMAIN-SUFFIX,alternativeto.net # поиск программ
+- DOMAIN-SUFFIX,greencloudvps.com
+- DOMAIN-SUFFIX,ventara.host
