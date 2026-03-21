@@ -30,7 +30,19 @@ payload:
 # Vivaldi Browser
 - DOMAIN-SUFFIX,forum.vivaldi.net
 - DOMAIN-SUFFIX,vivaldi.net
-# 
+# AHA-MUSIC
+- DOMAIN-SUFFIX,aha-music.com
+- DOMAIN-SUFFIX,ezojs.com
+- DOMAIN-SUFFIX,ezoicanalytics.com
+- DOMAIN-SUFFIX,extension.doreso.com
+# Хостеры
+- DOMAIN-SUFFIX,llhost # LLhost
+- DOMAIN-SUFFIX,greencloudvps.com
+# Motorola / Lenovo
+- DOMAIN-SUFFIX,motorola.com # motorola
+- DOMAIN-KEYWORD,motorola # motorola
+- GEOSITE,lenovo # lenovo
+# Разное
 - DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
 - DOMAIN-SUFFIX,softpedia.com # Сайт с программами
 - DOMAIN-SUFFIX,iconarchive.com # Набор иконок. Бесполезный сайт.
@@ -38,18 +50,10 @@ payload:
 - DOMAIN-SUFFIX,queue-it.net # Управление онлайн-очередями. Сервисный сайт.
 - GEOSITE,sourceforge # Open source ПО
 - DOMAIN-SUFFIX,niagaralauncher.app # Niagara Launcher
-- DOMAIN-SUFFIX,llhost # LLhost
 - DOMAIN-SUFFIX,steamdb.info # steamdb
 - DOMAIN-SUFFIX,tampermonkey.net # tampermonkey.net
-- DOMAIN-SUFFIX,motorola.com # motorola
-- DOMAIN-KEYWORD,motorola # motorola
 - DOMAIN-SUFFIX,ua # тест на ua ???
 - DOMAIN-SUFFIX,linktr.ee # linktr. аггрегатор ссылок на socials
 - GEOSITE,google-play # google-play
-- GEOSITE,lenovo # lenovo
 - DOMAIN-SUFFIX,wallhaven.cc # обои на Android
 - DOMAIN-SUFFIX,alternativeto.net # поиск программ
-- DOMAIN-SUFFIX,greencloudvps.com
-- DOMAIN-SUFFIX,ventara.host
-- DOMAIN-SUFFIX,aha-music.com # поиск музыки в браузере
-- DOMAIN-SUFFIX,ezojs.com
