@@ -51,6 +51,7 @@ payload:
 - GEOSITE,sourceforge # Open source ПО
 - DOMAIN-SUFFIX,niagaralauncher.app # Niagara Launcher
 - DOMAIN-SUFFIX,steamdb.info # steamdb
+- DOMAIN-SUFFIX,moddb.com # моды
 - DOMAIN-SUFFIX,tampermonkey.net # tampermonkey.net
 - DOMAIN-SUFFIX,ua # тест на ua ???
 - DOMAIN-SUFFIX,linktr.ee # linktr. аггрегатор ссылок на socials
