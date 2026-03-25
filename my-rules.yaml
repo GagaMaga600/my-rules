@@ -45,6 +45,7 @@ payload:
 # Niagara Launcher
 - DOMAIN-SUFFIX,niagaralauncher.app
 - DOMAIN-SUFFIX,niagaralauncher.com
+- DOMAIN-KEYWORD,niagaralauncher
 # Разное
 - DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
 - DOMAIN-SUFFIX,softpedia.com # Сайт с программами
