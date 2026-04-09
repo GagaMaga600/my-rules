@@ -47,6 +47,7 @@ payload:
 - DOMAIN-SUFFIX,niagaralauncher.com
 - DOMAIN-KEYWORD,niagaralauncher
 - DOMAIN-SUFFIX,featurebase.app
+- DOMAIN-SUFFIX,auth.featurebase.app
 # Разное
 - DOMAIN-SUFFIX,ifixit.com # Гайды по ремонту
 - DOMAIN-SUFFIX,softpedia.com # Сайт с программами
